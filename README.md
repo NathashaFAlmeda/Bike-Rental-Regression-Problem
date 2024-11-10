@@ -1,4 +1,5 @@
-Bike Count Prediction
+# Bike Count Prediction
+
 A regression-based project to predict bike usage based on weather and seasonal data. The model explores the impact of various conditions on bike counts using multiple machine learning techniques.
 
 Overview
